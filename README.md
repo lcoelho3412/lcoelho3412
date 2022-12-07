@@ -1,6 +1,6 @@
 ### Hello there, I'm Leo
 
-- 🔭 I’m currently working on a music aplication using React and ContexAPI 
+- 🔭 I’m currently working on a Hackathon for a Crypto exchange. 
 - 🌱 I’m currently learning MongoDb
 - 👯 I’m looking to collaborate on front and back end projects involving JavaScript, React, NodeJs and Typescript
 - 💬 Ask me anything about 🚴‍♂️ cycling, 📸 photography or Formula 1 🏎️  
